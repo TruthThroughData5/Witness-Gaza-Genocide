@@ -111,7 +111,7 @@ The extraction pipeline pulls live data from open-source APIs and saves it local
 
 - **Python + ClaudeAI + web scraping** — Data extraction & scraping
 - **Power Query** — Data cleaning & transformation
-- **Tableau** — Interactive dashboard
+- **Tableau** — Data Modelling & Interactive dashboard
 
 
 
