@@ -1,4 +1,4 @@
-# 🇵🇸 Witness-Gaza-Genocide
+# Witness-Gaza-Genocide
 
 > *"Every dataset is a testimony. Every number was a name, a family, a dream. All they ever asked for was the right to be human — to have a home, a country, and freedom."*
 
