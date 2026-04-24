@@ -109,9 +109,8 @@ The extraction pipeline pulls live data from open-source APIs and saves it local
 
 ## Tools Used
 
-- **Python** — Data extraction & scraping
+- **Python + ClaudeAI + web scraping** — Data extraction & scraping
 - **Power Query** — Data cleaning & transformation
-- **Excel** — Data modeling
 - **Tableau** — Interactive dashboard
 
 
