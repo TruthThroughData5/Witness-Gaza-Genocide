@@ -114,9 +114,7 @@ The extraction pipeline pulls live data from open-source APIs and saves it local
 - **Excel** — Data modeling
 - **Tableau** — Interactive dashboard
 
----
 
-## This project is a witness, not just an analysis.
 
 ---
 
